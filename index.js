@@ -18,3 +18,7 @@ mixedCase.toUpperCase() === mixedCase// false
 function whisper(string) {
   return string.toLowerCase()
 }
+
+logShout(string){
+console.log()
+}
