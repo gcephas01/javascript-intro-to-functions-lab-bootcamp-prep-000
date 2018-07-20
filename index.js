@@ -14,3 +14,7 @@ var mixedCase = 'Hi there!'
 mixedCase.toLowercase() === mixedCase // false
 
 mixedCase.toUpperCase() === mixedCase// false
+
+function whisper(string) {
+  return string.toLowerCase()
+}
